@@ -1,0 +1,22 @@
+{
+  "name": "mynode762733",
+  "version": "1.0.0",
+  "description": "my first package on npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek24509/mynode762733.git"
+  },
+  "keywords": [
+    "mynode762733"
+  ],
+  "author": "Abhishek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhishek24509/mynode762733/issues"
+  },
+  "homepage": "https://github.com/abhishek24509/mynode762733#readme"
+}
